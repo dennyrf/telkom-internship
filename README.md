@@ -48,14 +48,7 @@ Aanalisis berikut hanya menampilkan bagian code dengan perbedaan waktu pemrosesa
 - **Kiri:** Menggunakan `pandas`. Eksekusi menggunakan Pandas membutuhkan waktu yang lebih lama (1,5 detik) untuk memproses data.
 - **Kanan:** Menggunakan `polars`. Eksekusi menggunakan Polars jauh lebih cepat (0,1 detik).
 
-#### 3. Empty Value
-
-![image](https://github.com/user-attachments/assets/361c9ad3-2f9c-44e3-8a30-be099caff49b)
-
-- **Kiri:** Menggunakan `pandas`. Eksekusi menggunakan Pandas membutuhkan waktu yang lebih lama (1,3 detik) untuk memproses data.
-- **Kanan:** Menggunakan `polars`. Eksekusi menggunakan Polars jauh lebih cepat (0,1 detik).
-
-#### 4. Distance-Speed-Acceleration
+#### 3. Distance-Speed-Acceleration
 
 ![image](https://github.com/user-attachments/assets/6264a247-8fee-40db-a3c7-b17a775477ca)
 
